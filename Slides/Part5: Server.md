@@ -1,7 +1,6 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # Part 5: Web Servers
 
-# Lecture 10/02/2019
 
 ## Overview
 + Web server is a computer where the web content is stored. 
