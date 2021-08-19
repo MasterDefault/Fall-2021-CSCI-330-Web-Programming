@@ -1,4 +1,4 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # Part 6: PHP
 
 ## What is PHP?
@@ -239,7 +239,7 @@ print $x + $y;
 
 ?>
 ~~~~
-# Lecture Monday 10/14/2019
+
 
 ## PHP Data Types
 
@@ -424,7 +424,7 @@ var_dump(is_numeric($x));
 ?>
 ~~~~
 
-# Lecture Wednesday 10/16/2019
+
 
 ## PHP Constants
 + A constant is an identifier (name) for a simple value. The value cannot be changed during the script.
@@ -602,7 +602,7 @@ if ($t < "20") {
 }
 ?>
 ~~~~
-# Lecture Friday 10/18/2019
+
 
 ## PHP - The if...else Statement
 
