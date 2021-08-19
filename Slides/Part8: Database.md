@@ -1,4 +1,4 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # Part 8: Database
 
 ## Basic Definitions
