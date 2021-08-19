@@ -1,4 +1,4 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # Part 2: CSS
 # Lecture 4 Wednesday 08/28/2019
 # What is CSS?
@@ -220,7 +220,6 @@ There are three ways of inserting a style sheet:
   - background-attachment
    + To specify that the background image should be fixed (will not scroll with the rest of the page), use background-attachment: fixed
    + To Specify that the background image should scroll with the rest of the page, use background-attachment: scroll
-# Lecture 5  Friday 08/30/2019
 # Comment
 + Comments are used to explain the code, and may help when you edit the source code at a later date.
 + Comments are ignored by browsers.
@@ -362,7 +361,7 @@ p:nth-child(2){
 ~~~~
 would turn every paragraph that is the second child of its parent element red.
 
-# Lecture 6: Wednesday 09/04/2019
+
 
 # Box Model
 + All HTML elements can be considered as boxes. 
@@ -562,7 +561,7 @@ p{
 	
 	[See examples here.](https://www.w3schools.com/css/css_positioning.asp)
 	
-# Lecture 7: Friday 09/06/2019
+
 
 # Navigation bar
 + Having easy-to-use navigation is important for any web site.
