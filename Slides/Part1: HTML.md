@@ -1,9 +1,9 @@
 # CSCI 330 Web Programming
-# Fall 2019
+# Fall 2021
 **We are using W3School as the [tutorial](https://www.w3schools.com/html/default.asp)**.
-# Lecture 1 08/22/2019
-[Syllabus](https://zhangningsau.github.io/CSCI330/Fall2019/Syllabus.html)
-# Lecture 2 08/24/2019
+
+[Syllabus](https://zhangningsau.github.io/CSCI330/Fall2021/Syllabus.html)
+
 # website
 The basic components of a website are:
 1. Content: information that is displayed
@@ -152,7 +152,7 @@ Other examples:
 <img src="image_name.jpg">
 ~~~~
 
-# Lecture 2 08/27/2019
+
 
 # HTML Comment tags
 + Comments are not displayed by the browser, but it will help you remember why you did certain things.
