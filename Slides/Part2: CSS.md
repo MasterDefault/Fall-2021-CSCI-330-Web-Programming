@@ -625,7 +625,7 @@ ul {
 + See more examples on [w3schools.com/css](https://www.w3schools.com/css/css_navbar.asp)
 
 
-[Homework 2](https://github.com/ZhangNingSAU/Fall-2019-CSCI-330-Web-Programming/blob/master/Homework/HW2.md)
+[Homework 2](https://github.com/ZhangNingSAU/Fall-2021-CSCI-330-Web-Programming/blob/master/Homework/HW2.md)
 
 
 
