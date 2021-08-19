@@ -1,7 +1,6 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # Part 4: jQuery
 
-# Lecture Monday 09/23/2019
 
 # Why Study jQuery ?
 + jQuery is a library to the JavaScript programming language.
@@ -168,8 +167,7 @@ $(selector).fadeOut(speed,callback);
     </script>
     
 ~~~~
-# Quiz Wednesday 09/25/2019
-# Lecture Friday 09/27/2019
+
 
 
 # Variables
@@ -368,7 +366,6 @@ $(selector).slideToggle(speed,easing,callback)
 </html>
 ~~~~~
 
-# Lecture Monday 09/30/2019
 
 # Adding and Removing Elements
 + Dynamically adding elements to our HTML page is a powerful tool.
@@ -975,6 +972,6 @@ $(document).ready(function(){
 </script>
 ~~~~
 
-[Homework 4](https://github.com/ZhangNingSAU/Fall-2019-CSCI-330-Web-Programming/blob/master/Homework/HW4.md)
+[Homework 4](https://github.com/ZhangNingSAU/Fall-2021-CSCI-330-Web-Programming/blob/master/Homework/HW4.md)
 
 # Reference: [w3school](https://www.w3schools.com/jquery/)
