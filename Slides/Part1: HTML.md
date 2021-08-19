@@ -512,4 +512,4 @@ They can contain all sorts of HTML elements; text, images, lists, other tables, 
 ~~~~
 ![html23](../Resources/html23.png)
 
-# [Homework 1](https://github.com/ZhangNingSAU/Fall-2019-CSCI-330-Web-Programming/blob/master/Homework/HW1.md)
+# [Homework 1](https://github.com/ZhangNingSAU/Fall-2021-CSCI-330-Web-Programming/blob/master/Homework/HW1.md)
