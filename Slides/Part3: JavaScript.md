@@ -1,4 +1,4 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # JavaScript
 
 # Why JavaScript ?
@@ -89,7 +89,7 @@ variables).
   var my_age = 33;
   var is_male = true;
   ~~~~
-  # Lecture 8: Monday 09/09/2019
+ 
   # JavaScript Operators
   + JavaScript Arithmetic Operators are used to perform arithmetic on numbers.
   
@@ -135,10 +135,7 @@ variables).
   | &#124;&#124; |logical or|
   |!|logical not|
   
- # Lecture 9: Wednesday 09/11/2019
- ## John Deere talk
-  
-  # Lecture 10: Friday 09/13/2019
+
   
   # JavaScript Functions
   + A JavaScript function is a block of code designed to perform a particular task.
@@ -227,7 +224,7 @@ var cars=["BMW", 'Volvo', "Saab"];
 cars.push('Honda');
 ~~~~
 
-  # Lecture 11: Monday 09/16/2019
+
 # JavaScript Objects
 + Objects are variables too. But objects can contain many values.
 + The values are written as name:value pairs (name and value separated by a colon).
@@ -332,7 +329,7 @@ var cars = new Array();
 cars[0] = new car("Fiat","500","white");
 cars[1] = new car("Honda","Fit","black");
 ~~~~
-# Lecture 12: Monday 09/18/2019
+
 # JavaScript Loops
 + Loops can execute a block of code a number of times.
 + Loops are handy, if you want to run the same code over and over again, each time with a different value.
@@ -590,4 +587,3 @@ switch(new Date().getDay()){
 
 
 
-[Homework 3](https://github.com/ZhangNingSAU/Fall-2019-CSCI-330-Web-Programming/blob/master/Homework/HW3.md)
