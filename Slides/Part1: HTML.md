@@ -1,8 +1,5 @@
-# CSCI 330 Web Programming
-# Fall 2021
-**We are using W3School as the [tutorial](https://www.w3schools.com/html/default.asp)**.
-
-[Syllabus](https://zhangningsau.github.io/CSCI330/Fall2021/Syllabus.html)
+# CSCI 330 Fall 2021
+# Part 1: HTML
 
 # website
 The basic components of a website are:
