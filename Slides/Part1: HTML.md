@@ -16,7 +16,8 @@ The basic components of a website are:
 + The browser does not display the HTML tags, but uses them to determine how to display the document.
 
 # website, brower and server
-![](https://o7planning.org/en/12185/cache/images/i/32806244.gif)
+
+![no dislapy](https://www.tutorialride.com/images/javascript/server-side-scripting.jpeg)
 
 + Browser is a program that requests and interprets web pages encoded with HTML, etc.
 + server holds web pages and processes browser requests.
