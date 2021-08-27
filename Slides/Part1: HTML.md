@@ -184,6 +184,7 @@ If you use sublime 3, you can install packet control [HTML-CSS-JS Prettify](http
 + [Atom](https://atom.io/docs/v0.191.0/getting-started-installing-atom)
 + vi/vim/emac
 + sublime
++ etc.
 
 # HTML Images
 HTML can display images formats like JPG, PNG, GIF...
