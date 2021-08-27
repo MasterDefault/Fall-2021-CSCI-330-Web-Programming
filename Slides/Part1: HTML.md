@@ -155,7 +155,7 @@ Other examples:
 # HTML Comment tags
 + Comments are not displayed by the browser, but it will help you remember why you did certain things.
 + With comments you can place notifications and reminders in your HTML.
-+ Comments tag: `<!– Comments Here –>`
++ Comments tag: `<!–- Comments Here -–>` (notce that there are at least two dashes on each side)
 
 ![html4](../Resources/html4.png)
 
