@@ -142,7 +142,7 @@ Example: **title** attribute for `<p></p>`(move your cursor above the paragraph)
 Other examples:
 **href** attribute for HTML link tag `<a></a>`
 ~~~~
-<a href="www.https://zhangningsau.github.io/CSCI330/Fall2019/index.html">Course Webpage</a>
+<a href="https://zhangningsau.github.io/CSCI330/Fall2019/index.html">Course Webpage</a>
 ~~~~
 
 **src** attribute for HTML image tag `<img>`
