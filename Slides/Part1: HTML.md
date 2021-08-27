@@ -121,7 +121,7 @@ example:
 + Attributes are always specified **in the start tag**.
 + Attributes come in name/value pairs like : **name = 'value'**.
 
-Example: **title** attribute for `<p></p>`
+Example: **title** attribute for `<p></p>`(move your cursor above the paragraph)
 ~~~~
 <!DOCTYPE html>
 <html>
