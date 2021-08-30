@@ -341,8 +341,9 @@ For the whole supported image formats, please check [here](https://developer.moz
 ![html16](../Resources/html16.png)
 
 + The type attribute of the `<ol>` tag, defines the type of the list item marker:
-| type        | Description           | 
-| ------------- |-------------| 
+	
+| type| Description| 
+|----|----| 
 |type="1"	|The list items will be numbered with numbers (default)|
 |type="A"	|The list items will be numbered with uppercase letters|
 |type="a"	|The list items will be numbered with lowercase letters|
