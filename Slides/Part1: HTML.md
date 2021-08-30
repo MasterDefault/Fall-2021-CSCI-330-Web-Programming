@@ -201,6 +201,7 @@ For the whole supported image formats, please check [here](https://developer.moz
 ~~~~
 
 ![html](../Resources/html8.png)
+
 ![html](../Resources/html9.png)
 
 ~~~~
@@ -226,7 +227,9 @@ For the whole supported image formats, please check [here](https://developer.moz
 + The href attribute specifies the destination address.
 + The link text is the visible part.
 + The href attribute can be either absolute URL (a full web address) or local link.
+
 ![html12](../Resources/html12.png)
+
 ![html13](../Resources/html13.png)
 
 ## target attribute
@@ -291,6 +294,7 @@ For the whole supported image formats, please check [here](https://developer.moz
 ~~~~
 ![html14](../Resources/html14.png)
 + A **list-style-type**  attribute can be added to an unordered list, to define the style of the marker
+
 | list-style-type        | Description           | 
 | ------------- |-------------| 
 | disc     | Sets the list item marker to a bullet (default) |   
