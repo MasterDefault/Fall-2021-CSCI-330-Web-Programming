@@ -223,7 +223,7 @@ For the whole supported image formats, please check [here](https://developer.moz
 + Hyperlink is a text or image you can click on, and jump to another document.
 
 ## syntax
-+ In HTML, links are defined with the `<a>` tag. 
++ In HTML, links are defined with the `<a>` tag (a stands for anchor). 
 + The href attribute specifies the destination address.
 + The link text is the visible part.
 + The href attribute can be either absolute URL (a full web address) or local link.
