@@ -235,8 +235,8 @@ For the whole supported image formats, please check [here](https://developer.moz
 ## target attribute
 + The target attribute specifies where to open the linked document.
 
-| Value        | Description           | 
-| ------------- |-------------| 
+| Value| Description| 
+|----|----| 
 | _blank     | Load in a new window | 
 | _self     | Load in the same frame as it was clicked |   
 | _parent     | Load in the parent frameset | 
