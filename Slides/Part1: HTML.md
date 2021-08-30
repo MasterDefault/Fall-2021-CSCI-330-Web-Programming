@@ -279,8 +279,8 @@ For the whole supported image formats, please check [here](https://developer.moz
 # HTML Lists
 ## unordered lists
 
-+ An unordered list starts with the <ul> tag.
-+ Each list item starts with the <li> tag.
++ An unordered list starts with the `<ul>` tag.
++ Each list item starts with the `<li>` tag.
 
 ~~~~
 	<ul>
