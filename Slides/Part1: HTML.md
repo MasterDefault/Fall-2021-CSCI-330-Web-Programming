@@ -475,22 +475,21 @@ They can contain all sorts of HTML elements; text, images, lists, other tables, 
 
 ~~~~
     <table border="1px">
-        <thead>
-            <!- table headers->
-            <th colspan="2">coure title and name</th>
-        </thead>
-        <tbody>
-            <!- first row->
-            <tr>
-                <td>csci195</td>
-                <td>Programming I</td>
-            </tr>
-            <!- second row->
-            <tr>
-                <td>csci330</td>
-                <td>Web Programming</td>
-            </tr>
-        </tbody>
+        <!- first row: headers ->
+        <tr>
+            <th colspan="2">Course Title and Name</th>
+            
+        </tr>
+        <!- second row ->
+        <tr>
+            <td>CSCI 195</td>
+            <td>Programming I</td>
+        </tr>
+        <!- third row ->
+        <tr>
+            <td>CSCI 330</td>
+            <td>Web Programming</td>
+        </tr>
     </table>
 ~~~~
 
