@@ -6,6 +6,8 @@
 + CSS defines how HTML elements are to be displayed.
 + CSS saves a lot of work. It can control the layout of multiple web pages all at once.
   - CSS contains all styling information: where HTML elements should go, what color they should be, how big they should be, and more.
+
+![html_css_js.JPG](../Resources/html_css_js.JPG)
 # CSS Syntax
 + A CSS rule set consists of a **selector** and a **declaration block**:
 ![](../Resources/CSS1.png)
