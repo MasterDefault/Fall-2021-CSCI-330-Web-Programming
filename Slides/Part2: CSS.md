@@ -134,6 +134,24 @@ There are three ways of inserting a style sheet:
 + A text can be left or right aligned, centered, or justified.
 + The following example shows center aligned, and left and right aligned text:
   - ![text align](../Resources/CSS-textalign.png)
+	
++ Bullet points/markers of a list alignment
+	- Add `list-style-position: inside to` the `list` element. 
+	- The default value for the `list-style-position` property is `outside`.
+~~~~
+ul {
+    text-align: center;
+    list-style-position: inside;
+}	
+~~~~
+	
+~~~~
+<ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+</ul>
+~~~~
 # Font size
 + The font-size property sets the size of the text.
 ![](../Resources/CSS-fontsize.png)
