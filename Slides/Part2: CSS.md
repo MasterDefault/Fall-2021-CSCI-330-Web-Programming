@@ -136,7 +136,7 @@ There are three ways of inserting a style sheet:
   - ![text align](../Resources/CSS-textalign.png)
 	
 + Bullet points/markers of a list alignment
-	- Add `list-style-position: inside to` the `list` element. 
+	- Add `list-style-position: inside` to the `list` element. 
 	- The default value for the `list-style-position` property is `outside`.
 ~~~~
 ul {
