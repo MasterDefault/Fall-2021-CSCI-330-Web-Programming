@@ -1,6 +1,6 @@
 # CSCI 330 Fall 2021
 # Part 2: CSS
-# Lecture 4 Wednesday 08/28/2019
+
 # What is CSS?
 + CSS stands for Cascading Style Sheets. 
 + CSS defines how HTML elements are to be displayed.
