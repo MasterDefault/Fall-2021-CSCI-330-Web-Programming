@@ -162,6 +162,7 @@ ul {
   - serif: A font with little decorative bits on the ends of the strokes that make up letters. Do a search on ”serif” to see what we mean.
   - sans-serif: A plain-looking font, like this one. It doesn’t have the little doohickies on the ends of letters like a serif font does.
   - cursive:A scripty font! It looks like cursive writing.
+  - See details [here](https://www.w3schools.com/css/css_font.asp)
 + font-family backup values
   - You don’t have to jump straight to a default value like cursive or sans-serif: you can tell CSS to try several, going from one to the next if the one you want isn’t available.
   - For example, if you write:
