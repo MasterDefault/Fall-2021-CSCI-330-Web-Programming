@@ -85,7 +85,7 @@ There are three ways of inserting a style sheet:
   }
   ~~~~
 
-+ The `REL` attribute is used to define the relationship between the linked file and the HTML document. `REL=StyleSheet` specifies a persistent or preferred style while `REL="Alternate StyleSheet"` defines an alternate style.
++ The `REL` attribute is used to define the relationship between the linked file and the HTML document. `REL="StyleSheet"` specifies a persistent or preferred style while `REL="Alternate StyleSheet"` defines an alternate style.
 	
 ![css4](../Resources/CSS4.png)
 
