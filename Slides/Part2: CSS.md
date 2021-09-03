@@ -157,7 +157,7 @@ ul {
 ![](../Resources/CSS-fontsize.png)
 # Font family
 + The font-family property sets the font family of the text.
-+ Most computers will understand popular fonts like Verdana, Courier, and Garamond, but each individual computer has di↵erent fonts installed on it.
++ Most computers will understand popular fonts like Verdana, Courier, and Garamond, but each individual computer has different fonts installed on it.
 + CSS has some built-in defaults meant to ensure your users see what you intend. They are:
   - serif: A font with little decorative bits on the ends of the strokes that make up letters. Do a search on ”serif” to see what we mean.
   - sans-serif: A plain-looking font, like this one. It doesn’t have the little doohickies on the ends of letters like a serif font does.
