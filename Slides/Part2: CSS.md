@@ -85,13 +85,12 @@ There are three ways of inserting a style sheet:
   }
   ~~~~
 
-+ The `REL` attribute is used to define the relationship between the linked file and the HTML document. `REL="StyleSheet"` specifies a persistent or preferred style while `REL="Alternate StyleSheet"` defines an alternate style.
 	
 ![css4](../Resources/CSS4.png)
 
 + Make sure HTML file can see the external CSS information by putting a `<link>` tag between the `<head>`...`</head>` tags of the HTML page. Your `<link>` tag needs three attributes:
   - A **type** attribute that should be always be equal to “text/css”.
-  - A **rel** attribute that should be always be equal to “stylesheet”.
+  - A **rel** attribute that should be always be equal to “stylesheet”. It is used to define the relationship between the linked file and the HTML document.
   - A **href** attribute that should point to the web address of your CSS file.
 
 
