@@ -240,8 +240,8 @@ ul {
     ~~~~
     
   - background-attachment
-   + To specify that the background image should be fixed (will not scroll with the rest of the page), use background-attachment: fixed
-   + To Specify that the background image should scroll with the rest of the page, use background-attachment: scroll
+   + To specify that the background image should be fixed (will not scroll with the rest of the page), use `background-attachment: fixed`.
+   + To Specify that the background image should scroll with the rest of the page, use `background-attachment: scroll`.
 # Comment
 + Comments are used to explain the code, and may help when you edit the source code at a later date.
 + Comments are ignored by browsers.
