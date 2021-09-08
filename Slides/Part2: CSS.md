@@ -395,7 +395,7 @@ would turn every paragraph that is the second child of its parent element red.
 	- Padding: Clears an area around the content. The padding is transparent
 	- Border: A border that goes around the padding and content
 	- Margin: Clears an area outside the border. The margin is transparent
-	-![](../Resources/CSS-boxmodel.png)
+	-![CSS-boxmodel.pn](../Resources/CSS-boxmodel.png)
 + example:
 ~~~~
 div {
@@ -405,7 +405,7 @@ div {
   margin: 20px;
 }
 ~~~~
-![](../Resources/CSS-boxexample.png)
+![CSS-boxexample.png](../Resources/CSS-boxexample.png)
 
 # Display property
 + by default
@@ -417,7 +417,7 @@ div{
 	height: 50px;
 }
 ~~~~
-![](../Resources/CSS-displayblock.png)
+![CSS-displayblock.pn](../Resources/CSS-displayblock.png)
 + As you saw, the outermost box of each element went all the way across the page. This is why until now, your HTML elements have been sitting on top of one another: by default, they take up the full width of the page.
 + We can change all this with the first positioning property we’ll learn: the display property. We’ll learn about four possible values.
 + Four possible values for display property
@@ -438,22 +438,22 @@ div{
 ~~~~
 + If we specify a display of inline-block, however, our blocks are still blocks, but will be able to sit next to each other on the same line.
 
-![](../Resources/CSS-displayinlineblock.png)
+![CSS-displayinlineblock.png](../Resources/CSS-displayinlineblock.png)
 
 + The **inline** value places all your elements next to one another, but not as blocks: they don’t keep their dimensions. The good news is, inline places all your elements on a single line. The bad news is that it doesn’t maintain their “box”ness: as you saw, all your `<div>` got squished to the smallest possible width!
 
-![](../Resources/CSS-displayinline.png)
+![displayinline](../Resources/CSS-displayinline.png)
 
 + **display: none** removes the selected element from the page entirely, including any children and any content. (But not gone forever?changing the display value away from none will bring everything back.)
 
-![](../Resources/CSS-displaynone.png)
+![displaynone](../Resources/CSS-displaynone.png)
 
 # Margin
-+ -![](../Resources/CSS-boxmodel.png)
++ -![boxmodel](../Resources/CSS-boxmodel.png)
 + The margin is the space around the element. The larger the margin, the more space between our element and the elements around it.
 + We can adjust the margin to move our HTML elements closer to or farther from each other.
 + If set margin to auto, this tells the document to automatically put equal left and right margins on our element, centering it on the page.
-![](../Resources/CSS-marginauto.png)
+![marginauto](../Resources/CSS-marginauto.png)
 + If you want to specify a particular margin
 
 ~~~~
