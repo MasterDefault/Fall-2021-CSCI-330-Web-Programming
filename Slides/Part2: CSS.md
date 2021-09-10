@@ -250,7 +250,17 @@ ul {
 # HTML block
 + A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
 + One of the most versatile structure tags available to you is the `<div> </div>` tag. Short for “division”.
-+ `<div>` allows you to divide your page into containers (that is, different pieces). This will come in handy when you begin learning CSS .
++ `<div>` allows you to divide your page into containers (that is, different pieces). This will come in handy when you begin learning CSS. CSS Division (div) is a container element and it is used to group related items together. Whenever there is a situation that you need to collect various objects into a larger container for scripting or styling purposes, div is the best solution. The use of < div > tag is straightforward.
++ Syntax
+~~~~
+<div>...</div>
+~~~~
++ Examples
+~~~~
+<div>
+  <p>A paragraph inside Div</p>
+</div>
+~~~~
 
 ~~~~
     <div style="width: 50px; height: 50px; background-color: red"></div>
