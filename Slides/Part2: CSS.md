@@ -465,7 +465,28 @@ div{
 + The margin is the space around the element. The larger the margin, the more space between our element and the elements around it.
 + We can adjust the margin to move our HTML elements closer to or farther from each other.
 + If set margin to auto, this tells the document to automatically put equal left and right margins on our element, centering it on the page.
+
+~~~~
+<!-- in html -->
+<h2>Use of margin:auto</h2>
+<p>You can set the margin property to auto to horizontally center the element within its container. The element will then take up the specified width, and the remaining space will be split equally between the left and right margins:</p>
+
+<div>
+This div will be horizontally centered because it has margin: auto;
+</div>
+~~~~
+	
+~~~~
+/* in css */
+div {
+  width:300px;
+  margin: auto;
+  border: 1px solid red;
+}
+~~~~
+	
 ![marginauto](../Resources/CSS-marginauto.png)
+	
 + If you want to specify a particular margin
 
 ~~~~
