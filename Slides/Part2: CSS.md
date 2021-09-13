@@ -597,7 +597,7 @@ p{
 ![](../Resources/CSS-clear.png)
 
 # The position Property
-+The position property specifies the type of positioning method used for an element. There are four different position values:
++ The position property specifies the type of positioning method used for an element. There are four different position values:
 	- static
   	- relative   
 	- fixed
