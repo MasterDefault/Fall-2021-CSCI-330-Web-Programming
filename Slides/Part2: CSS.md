@@ -550,6 +550,8 @@ border: 2px dotted red;
 + You’ll see abbreviations like TM, TB, and TP in the diagram. These stand for “top margin”, “top border,” and “top padding”.
 + As we’ll see, we can adjust the top, right, left, and bottom padding, border, and margin individually.
 
+![](../Resources/CSS-TMTB.png)
+	
 # Negative Values
 + If you want to move an element in the other direction, you can give CSS a negative value: margin-left: -40px will move the element fourty pixels to the left.
 ~~~~
