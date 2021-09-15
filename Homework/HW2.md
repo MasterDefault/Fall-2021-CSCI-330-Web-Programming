@@ -13,7 +13,7 @@
 6. create a navigation bar, which link to different headings. 
 7. you can add more elements to your html file if it is necessary.
 
-## Step 2: zip your html and css file as one archive and name it as "CSCI330_Homework2_JohnDoe(01234567)", where 01234567 shoulbe be replaced by your BeeCard ID.
+## Step 2: zip your html and css file as one archive and name it as "CSCI330_Homework2_JohnDoe(01234567)", where 01234567 is your BeeCard ID.
 ## Step 3: submit this file to [Blackboard](https://blackboard.sau.edu/webapps/login/).
 
 ## There are 100 points in total. 15 points for parts 1 to 6 in step 1 and 10 points for linking css file to html file .
