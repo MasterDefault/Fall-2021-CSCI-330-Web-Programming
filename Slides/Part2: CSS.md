@@ -559,7 +559,18 @@ margin-left: -40px;
 ~~~~
 ![](../Resources/CSS-negative.png)
 
-
+# Q: How to calculate the width and height of a box model?
++ Hint: in CSS file, `width` and `height` define the width and height of the `content`.
+~~~~
+div {
+	width: 320px;
+  	height: 150px;
+	padding: 50px;
+	border: 15px solid green;
+	margin: 20px;
+}
+~~~~
+	
 # Float
 + The float property specifies whether or not an element should float.
 + In its simplest use, the float property can be used to wrap text around images.
