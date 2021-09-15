@@ -642,8 +642,8 @@ p{
 ~~~~
     <ul>
         <li><a href="https://zhangningsau.github.io/">Home</a></li>
-        <li><a href="https://zhangningsau.github.io/CSCI195/Fall2019/index.html">CSCI 195</a></li>
-        <li><a href="https://zhangningsau.github.io/CSCI330/Fall2019/index.html">CSCI 330</a></li>    
+        <li><a href="https://zhangningsau.github.io/CSCI295/Fall2021/index.html">CSCI 295</a></li>
+        <li><a href="https://zhangningsau.github.io/CSCI330/Fall2021/index.html">CSCI 330</a></li>    
     </ul>
 ~~~~
 ![](../Resources/CSS-defaultbar.png)
