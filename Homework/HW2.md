@@ -11,7 +11,7 @@
 4. change the style of the margin, boarder, padding and content of your paragraph element.
 5. let your favorite picture float to the right of the link(s) of your favorite website(s).
 6. create a navigation bar, which link to different headings. 
-7. you can add more elements to your html file if it is necessary.
+Note: you can add more elements to your html file if it is necessary.
 
 ## Step 2: zip your html and css file as one archive and name it as "CSCI330_Homework2_JohnDoe(01234567)", where 01234567 is your BeeCard ID.
 ## Step 3: submit this file to [Blackboard](https://blackboard.sau.edu/webapps/login/).
