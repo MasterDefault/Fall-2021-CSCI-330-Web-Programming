@@ -170,7 +170,7 @@ variables).
 ~~~~
 <button onclick = "my_function()">Click me</button>
 ~~~~
-+ other (HTML events)[https://www.w3schools.com/tags/ref_eventattributes.asp]
++ other [HTML events](https://www.w3schools.com/tags/ref_eventattributes.asp)
 # Window prompt() Method
 + The prompt() method displays a dialog box that prompts the visitor for input.
 + A prompt box is often used if you want the user to input a value before entering a page.
