@@ -171,7 +171,9 @@ in html
     <script type="text/javascript" src="demo.js"></script>
 </head>
 <body>
+    <button onclick="btnFunction()">Try it!</button>
     <p id="p1"></p>
+
 </body>
 </html>
 ~~~~
@@ -180,7 +182,10 @@ in js
 function myFunction(p1, p2) {
   return p1 * p2;
 }
-document.getElementById("p1").innerHTML = myFunction(4, 3);
+
+function btnFunction(){
+  document.getElementById("p1").innerHTML = myFunction(4, 3);
+}
 ~~~~
 # global and local variables
 + Variables defined outside a function are accessible anywhere once they have been declared.
