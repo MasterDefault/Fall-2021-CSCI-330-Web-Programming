@@ -612,6 +612,7 @@ switch(new Date().getDay()){
 
 # Debug
 + console.log(var_name)
++ Right click the webpage, choose `Inspect`, then the `Console` tab.(In this class, we use Google Chrome as our default web browser.)
 
 # [Homework 3](https://github.com/ZhangNingSAU/Fall-2021-CSCI-330-Web-Programming/blob/master/Homework/HW3.md)
 
