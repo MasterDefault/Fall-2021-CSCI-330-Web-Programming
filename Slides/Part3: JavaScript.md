@@ -382,9 +382,10 @@ for(i=0; i<fruites.length; i++){
 
 # Different Kinds of Loops
 + **for** - loops through a block of code a number of times.
-+ **for/in** - loops through the properties of an object.
 + **while** - loops through a block of code while a specified condition is true.
 + **do/while** - also loops through a block of code while a specified condition is true.
++ **for/in** - loops through the properties of an object.
++ **for/of** - loops through the values of an iterable object.
 
 ## for loop
 + syntax
@@ -452,6 +453,64 @@ do{
 }
 while(i<fruites.length)
 ~~~~
+## for/in
+### for/in over objects
++ Syntax
+~~~
+for (key in object) {
+  // code block to be executed
+}
+~~~
+
+~~~~
+const person = {fname:"John", lname:"Doe", age:25};
+
+let text = "";
+for (let x in person) {
+  text += person[x];
+}
+~~~~
+#### Explanation
++ The for in loop iterates over a `person` object
++ Each iteration returns a `key` (x)
++ The key is used to access the value of the key
++ The value of the key is `person[x]`
+### For In Over Arrays
++ Syntax
+~~~
+for (variable in array) {
+  code
+}
+~~~
+~~~~
+const numbers = [45, 4, 9, 16, 25];
+
+let txt = "";
+for (let x in numbers) {
+  txt += numbers[x];
+}
+~~~~
+## for/of
++ **variable** - For every iteration the value of the next property is assigned to the variable. Variable can be declared with `const`, `let`, or `var`.
++ **iterable** - An object that has iterable properties.
+~~~~
+const cars = ["BMW", "Volvo", "Mini"];
+
+let text = "";
+for (let x of cars) {
+  text += x;
+}
+~~~~
+
+~~~~
+let language = "JavaScript";
+
+let text = "";
+for (let x of language) {
+text += x;
+}
+~~~~
+
 
 # Conditional Statements
 + Conditional statements are used to perform di↵erent actions based on different conditions.
