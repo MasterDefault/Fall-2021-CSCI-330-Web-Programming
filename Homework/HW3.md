@@ -1,7 +1,6 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # Homework 3
-# start: 09/20/2019
-# due: 11:59 pm Friday 09/27/2019
+# due: 11:59 pm Wednesday 10/06/2021
 
 # You are working for a large supermarket and the cash register has just failed. The boss is not happy as he can’t make any money. To save the day it happens that you let slip to your boss that you know JavaScript and can build a quick virtual cash register until head office sends support staff. Your boss is over the moon and wants you to get started right away.
 
@@ -62,5 +61,5 @@ Please create your HTML file, name it as **cash.html**. Please remember the exte
 + Design your own CSS style.
 + Link your CSS file to HTML file by using `<link>`
 
-# Step 4: Zip the 3 files (js, html and css) as one archive, name it as "CSCI330_Homework3_JohnSmith(01234567)" and submit it to [Blackboard](https://blackboard.sau.edu)
+# Step 4: Zip the 3 files (js, html and css) as one archive, name it as "CSCI330_Homework3_JohnDoe(01234567)" and submit it to [Blackboard](https://blackboard.sau.edu)
 
