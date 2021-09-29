@@ -527,6 +527,14 @@ if(condition){
 ~~~~
 
 + example
+	- Note: Some special charaters can not be displayed if those charaters are used directly in your HTML file.
+	~~~~
+	& becomes &amp
+	< becomes &lt
+	> becomes &gt
+	" becomes &quot
+	' becomes &#39
+	~~~~
 
 ~~~~
 var a = 1;
