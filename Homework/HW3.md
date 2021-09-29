@@ -20,7 +20,7 @@ Please create your JavaScript file, name it as cash.js. Please remember the exte
 + Ask the user to enter the total items number by using **prompt**, and save the entered number to **cashRegister.item**.
 + Then use a **for loop** to **prompt** the user to enter the cost for each item.
 + You need to add each item cost to the total by calling the method **add**.
-+ Note that the variables you receive from **prompt** is a string, not a number. You can use **parseFloat** to convert the string cost to float/int cost, eg:
++ Note that the variables you receive from **prompt** is a string, not a number. You can use **parseFloat/parseInt** to convert the string cost to float/int cost, eg:
   - cashRegister.add(parseFloat(cost));
   
 ## 1.3 Create a print function.
