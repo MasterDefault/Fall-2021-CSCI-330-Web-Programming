@@ -280,7 +280,7 @@ var $p = $("p");
 </html>
 ~~~~
 
-# ’this’ is Important!
+# `this` is Important!
 ~~~~
       <script > 
          $(document).ready(function(){
@@ -292,7 +292,7 @@ var $p = $("p");
         })
     </script>
 ~~~~
-+ In this example, *8$("h1").hide()** won’t just hide the **h1** you mouse into; it will hide **all the h1s**.
++ In this example, **$("h1").hide()** won’t just hide the **h1** you mouse into; it will hide **all the h1s**.
 + How can we tell jQuery we only want to affect **this** particular element?
 + **this**, of course!
 + The **this** keyword refers to the jQuery object you’re currently doing something with.
