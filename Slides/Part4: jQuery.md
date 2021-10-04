@@ -16,13 +16,13 @@
   
 ~~~~
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 ~~~~
   - To use jQuery from Microsoft:
 ~~~~
 <head>
-<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.1.min.js"></script>
 </head>
 ~~~~
   - One big advantage of using the hosted jQuery from Google or Microsoft:
@@ -80,7 +80,7 @@ $(document).ready(function(){
 ## mouseenter() and hide()
 + **mouseenter()** does what you might expect: it produces a change when your mouse enters a given HTML element. For example:
 ~~~~
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script >
         
         $(document).ready(function(){
