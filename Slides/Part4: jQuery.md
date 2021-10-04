@@ -50,7 +50,7 @@ In the HTML **DOM** (Document Object Model), everything is a **node**:
 We’ll start our jQuery magic using the $(document).ready():
 + **$()** says, “We are going to use jQuery !”.
 + Putting **document** between the parentheses tells us that we’re about to work our magic on the **HTML document** itself.
-+ **.ready()** is a ****function**, or basic action, in jQuery. It tells us jQuery is going to do stuff as soon as the HTML document is ready.
++ **.ready()** is a **function**, or basic action, in jQuery. It tells us jQuery is going to do stuff as soon as the HTML document is ready.
 + Whatever goes in <b>.ready()</b>’s parentheses is the jQuery **event** that occurs as soon as the HTML is ready.
 + **$(document).ready(something)** says “when the HTML document is ready, do something!”.
 + Note that **.ready();** ends with a **semicolon**.
