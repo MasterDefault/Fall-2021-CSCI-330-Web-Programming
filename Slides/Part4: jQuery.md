@@ -93,7 +93,7 @@ $(document).ready(function(){
 
     </script>
 ~~~~
-+ This example would hide every <h1> on the page as soon as you mouse over one.
++ This example would hide every `<h1>` on the page as soon as you mouse over one.
   
 + Instead of hide(), however, we’ll place fadeTo() inside mouseenter().
 + fadeTo() takes three arguments, or inputs, between its parentheses, separated by a comma:
