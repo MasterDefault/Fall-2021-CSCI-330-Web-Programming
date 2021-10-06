@@ -335,12 +335,12 @@ var $p = $("p");
 
 ~~~~~
 $(selector).slideToggle(speed,easing,callback)
-~~~~
+~~~~~
 
  
 
 
-~~~~
+~~~~~
 <!DOCTYPE html>
 <html>
 <head>
