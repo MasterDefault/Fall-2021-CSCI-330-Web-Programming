@@ -251,7 +251,7 @@ var $p = $("p");
 
 # Compound selector
 + Anything you can target with CSS, you can modify with jQuery.
-+ We can apply a fadeTo() to both the .pink and .red selectors like this:
++ We can apply a fadeTo() to multiple selectors like this:
 ~~~~
 <!DOCTYPE html>
 <html>
