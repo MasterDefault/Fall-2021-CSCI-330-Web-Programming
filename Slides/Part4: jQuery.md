@@ -185,7 +185,7 @@ var $p = $("p");
 
 
 # Selecting by Class
-+ We don’t have to limit ourselves to selecting HTML elements like <p> and <div>.
++ We don’t have to limit ourselves to selecting HTML elements like `<p>` and `<div>`.
 + Essentially, we can put any CSS selector in quotes and pass it into **$()**. This means we can select classes, too!  
 
 ~~~~
