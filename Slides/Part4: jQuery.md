@@ -625,7 +625,7 @@ $(document).ready(function(){
 ~~~~
 
 # Changing Your style: CSS
-+ Query also includes a general-purpose **.css()** function that takes two inputs: 
++ jQuery also includes a general-purpose **.css()** function that takes two inputs: 
   - the first is the CSS element property to alter,
   - the second is the value to set it to. 
   
