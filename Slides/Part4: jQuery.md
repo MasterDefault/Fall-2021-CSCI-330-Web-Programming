@@ -748,9 +748,9 @@ $(document).ready(function(){
 
 |Type|Description|
 |----|----|
-|<input type = "text">|Define a one-line text input|
-|<input type = "radio">|Define a radio button(for selecting one of many choices)|
-|<input type = "submit">|Define a submit button(for submitting the form)|
+|`<input type = "text">`|Define a one-line text input|
+|`<input type = "radio">`|Define a radio button(for selecting one of many choices)|
+|`<input type = "submit">`|Define a submit button(for submitting the form)|
 
 See more types [here](https://www.w3schools.com/html/html_form_input_types.asp).
 
