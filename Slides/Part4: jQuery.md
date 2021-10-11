@@ -924,7 +924,7 @@ $(document).ready(function(){
 $(document).ready(function(){
   $("button").click(function(){
   $("div").animate({
-    left: "100px",
+    right: "100px",
   });
 }); 
 
@@ -949,8 +949,8 @@ $(document).ready(function(){
 $(document).ready(function(){
   $("button").click(function(){
   $("div").animate({
-    left: "100px",
-    top: "100px",
+    right: "100px",
+    bottom: "100px",
   });
 }); 
 
@@ -963,8 +963,8 @@ $(document).ready(function(){
 $(document).ready(function(){
   $("button").click(function(){
   $("div").animate({
-    left: "+=100px",
-    top: "+=100px",
+    right: "+=100px",
+    bottom: "+=100px",
   });
 }); 
 
