@@ -1,7 +1,7 @@
-# CSCI 330 Fall 2019
+# CSCI 330 Fall 2021
 # Homework 4 for jQuery
-# start: 09/30/2019
-# due: 11:59 pm Monday 10/07/2019
+# start: 10/30/2019
+# due: 11:59 pm Friday 10/22/2021
 
 # Your boss wants you to make a meme generator. Enter an image URL, and captions to go on the top and bottom. Please finish all steps by following instructions.
 ## 1 Create your HTML file. (15 points)
@@ -89,4 +89,4 @@ Please create your CSS file, name it as **meme.css**. Please remember the extens
 ~~~~
 
 ## Submit your Lab4 to [blackboard](https://blackboard.sau.edu/webapps/login/)
-Please zip the three files to an archive, name it as "CSCI330_Homework4_JohnSmith(01234567)" and submit the archive file to [blackboard](https://blackboard.sau.edu/webapps/login/).
+Please zip the three files to an archive, name it as "CSCI330_Homework4_JohnDoe(01234567)" and submit the archive file to [blackboard](https://blackboard.sau.edu/webapps/login/).
