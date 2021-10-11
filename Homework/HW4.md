@@ -1,6 +1,6 @@
 # CSCI 330 Fall 2021
 # Homework 4 for jQuery
-# start: 10/30/2019
+
 # due: 11:59 pm Friday 10/22/2021
 
 # Your boss wants you to make a meme generator. Enter an image URL, and captions to go on the top and bottom. Please finish all steps by following instructions.
