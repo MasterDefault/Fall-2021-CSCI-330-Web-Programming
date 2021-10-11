@@ -826,7 +826,7 @@ $(document).ready(function(){
 
 
 # general event handlers .on()
-+ We need a new event handler: .on(). You can think of .on() as a general handler that takes the event, its selector, and an action as inputs.
++ We need a new event handler: `.on()`. You can think of `.on()` as a general handler that takes the `event`, its `selector`, and an `action` as inputs.
 
 ~~~~
 <!DOCTYPE html>
